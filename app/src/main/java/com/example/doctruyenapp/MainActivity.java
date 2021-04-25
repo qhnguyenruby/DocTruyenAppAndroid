@@ -25,8 +25,5 @@ public class MainActivity extends AppCompatActivity {
         }, 2000);
     }
 
-//    public void moveToLogin(View view){
-//        Intent intent = new Intent(MainActivity.this, LoginActivity.class);
-//        startActivity(intent);
-//    }
+
 }
