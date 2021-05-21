@@ -45,7 +45,7 @@
                     android:text="Sign Up"
                     android:textSize="28sp"
                     android:textStyle="bold"
-                    android:textColor="@color/colorPrimary"
+                    android:textColor="#ff0000"
                     android:layout_alignParentRight="true"
                     android:layout_marginTop="4dp"
                     android:onClick="moveToRegistration"
@@ -98,7 +98,7 @@
 
             <Button
                 android:id="@+id/btn_login"
-                android:backgroundTint="@color/colorPrimary"
+                android:backgroundTint="#ff0000"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/white"

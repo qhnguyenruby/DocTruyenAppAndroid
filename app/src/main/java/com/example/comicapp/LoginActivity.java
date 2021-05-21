@@ -66,6 +66,7 @@ public class LoginActivity extends AppCompatActivity {
 //                Toast.makeText(this, "Đi chỗ khác chơi", Toast.LENGTH_SHORT).show();
 //            }
 
+
         }
     }
 
